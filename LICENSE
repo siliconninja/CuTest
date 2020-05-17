@@ -1,3 +1,5 @@
+NOTE: This project contains CuTest which has multiple licenses. test-code.c, compile-command.txt (and similar files if I write them in the future) are licensed under the MIT license. Any files from CuTest downloaded from the zip file here: https://sourceforge.net/projects/cutest/files/cutest/1.5/ are licensed under the license specified in `license.txt`.
+
 MIT License
 
 Copyright (c) 2020 siliconninja
