@@ -1,0 +1,4 @@
+gcc test-code.c CuTest.c -o test-code 
+
+To run it type:
+./test-code
